@@ -1,0 +1,39 @@
+{
+    "name":            "strong-parameters",
+    "version":         "0.0.1",
+    "description":     "Strong Parameters for Node.js, based on Strong Parameters for Rails",
+    "main":            "index.js",
+    "scripts":         { },
+    "engines":         {
+        "node": "^4.x"
+    },
+    "repository":      {
+        "type": "git",
+        "url":  "git+https://github.com/jordansexton/strong-parameters.git"
+    },
+    "keywords":        [
+        "strong",
+        "parameters",
+        "params",
+        "rails",
+        "ruby"
+    ],
+    "author":          "Jordan Sexton <jordan@jordansexton.com>",
+    "contributors":    [
+        {
+            "name":  "Jordan Sexton",
+            "email": "jordan@jordansexton.com"
+        }
+    ],
+    "license":         "MIT",
+    "bugs":            {
+        "url": "https://github.com/jordansexton/strong-parameters/issues"
+    },
+    "homepage":        "https://github.com/jordansexton/strong-parameters",
+    "devDependencies": {
+        "babel-eslint": "^4.1.6",
+        "chai":         "^3.4.1",
+        "eslint":       "^1.10.3",
+        "mocha":        "^2.3.4"
+    }
+}
